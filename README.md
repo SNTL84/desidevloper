@@ -205,11 +205,15 @@ export default async function handler(req, res) {
 
 <div align="center">
 
-![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SNTL84&show_icons=true&theme=radical&bg_color=08071A&title_color=6C47FF&icon_color=00D4AA&text_color=F0EDFF&border_color=6C47FF)
+<img src="https://github-readme-stats.vercel.app/api?username=SNTL84&show_icons=true&theme=radical&bg_color=08071A&title_color=6C47FF&icon_color=00D4AA&text_color=F0EDFF&border_color=6C47FF&count_private=true&include_all_commits=true&hide_border=false" alt="Milan's GitHub Stats" width="495"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SNTL84&layout=compact&theme=radical&bg_color=08071A&title_color=6C47FF&text_color=F0EDFF&border_color=6C47FF)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SNTL84&theme=radical&background=08071A&ring=6C47FF&fire=00D4AA&currStreakLabel=F0EDFF&border=6C47FF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNTL84&layout=compact&theme=radical&bg_color=08071A&title_color=6C47FF&text_color=F0EDFF&border_color=6C47FF&hide_border=false&langs_count=8" alt="Top Languages" width="350"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SNTL84&theme=radical&background=08071A&ring=6C47FF&fire=00D4AA&currStreakLabel=F0EDFF&border=6C47FF&hide_border=false" alt="GitHub Streak" width="495"/>
 
 </div>
 
@@ -219,7 +223,7 @@ export default async function handler(req, res) {
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=SNTL84&theme=radical&no-frame=true&column=7&margin-w=10&title=MultiLanguage,Repositories,Commits,Stars,Followers,Issues,PullRequest)
+<img src="https://github-profile-trophy.vercel.app/?username=SNTL84&theme=radical&no-frame=false&no-bg=false&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Repositories,Commits,Stars,Followers,Issues,PullRequest" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
