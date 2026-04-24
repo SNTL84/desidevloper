@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/stack-React%20%2F%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Stack"/>
 <img src="https://img.shields.io/badge/automation-AI%20Powered-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Powered"/>
 <img src="https://img.shields.io/github/license/SNTL84/desidevloper?style=for-the-badge&color=08071A" alt="License"/>
+<img src="https://img.shields.io/badge/▶%20Demo-YouTube%20Short-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo"/>
 
 <br/>
 <br/>
@@ -24,6 +25,23 @@
 [![Portfolio](https://img.shields.io/badge/🌐%20Live%20Portfolio-desidevloper.com-00D4AA?style=flat-square)](https://desidevloper.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919727413309)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SNTL2784-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sntl2784)
+[![YouTube](https://img.shields.io/badge/YouTube-@SNTL84-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/shorts/PIXDxmRb6YM)
+
+</div>
+
+---
+
+## 🎬 Live Demo — Watch It in Action
+
+> **This is not just a portfolio. It's a working automation system. Watch the proof.**
+
+<div align="center">
+
+[![▶ Watch the Demo Short](https://img.youtube.com/vi/PIXDxmRb6YM/maxresdefault.jpg)](https://youtube.com/shorts/PIXDxmRb6YM)
+
+### ▶ [Click to Watch: AI-Powered Portfolio Demo](https://youtube.com/shorts/PIXDxmRb6YM)
+
+*🔥 See how the "Hire Me" button is generated live by AI — not coded manually.*
 
 </div>
 
@@ -241,6 +259,7 @@ Handle: SNTL 84
 
 [![Hire Milan](https://img.shields.io/badge/🚀%20Hire%20Milan-desidevloper.com-6C47FF?style=for-the-badge)](https://desidevloper.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919727413309)
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube%20Short-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/PIXDxmRb6YM)
 
 </div>
 
