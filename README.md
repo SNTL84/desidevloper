@@ -205,15 +205,14 @@ export default async function handler(req, res) {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SNTL84&show_icons=true&theme=radical&bg_color=08071A&title_color=6C47FF&icon_color=00D4AA&text_color=F0EDFF&border_color=6C47FF&count_private=true&include_all_commits=true&hide_border=false" alt="Milan's GitHub Stats" width="495"/>
+<a href="https://github.com/SNTL84">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SNTL84&show_icons=true&theme=radical&bg_color=08071A&title_color=6C47FF&icon_color=00D4AA&text_color=F0EDFF&border_color=6C47FF&count_private=true&include_all_commits=true&cache_seconds=1800" alt="SNTL84 GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNTL84&layout=compact&theme=radical&bg_color=08071A&title_color=6C47FF&text_color=F0EDFF&border_color=6C47FF&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNTL84&layout=compact&theme=radical&bg_color=08071A&title_color=6C47FF&text_color=F0EDFF&border_color=6C47FF&hide_border=false&langs_count=8" alt="Top Languages" width="350"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SNTL84&theme=radical&background=08071A&ring=6C47FF&fire=00D4AA&currStreakLabel=F0EDFF&border=6C47FF&hide_border=false" alt="GitHub Streak" width="495"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SNTL84&theme=radical&background=08071A&ring=6C47FF&fire=00D4AA&currStreakLabel=F0EDFF&border=6C47FF&dates=F0EDFF" alt="GitHub Streak" width="495"/>
 
 </div>
 
@@ -223,7 +222,11 @@ export default async function handler(req, res) {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SNTL84&theme=radical&no-frame=false&no-bg=false&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Repositories,Commits,Stars,Followers,Issues,PullRequest" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SNTL84&theme=radical&no-frame=false&no-bg=false&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Commits,Stars" alt="GitHub Trophies Row 1" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SNTL84&theme=radical&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15&title=Followers,Issues,PullRequest" alt="GitHub Trophies Row 2" />
 
 </div>
 
